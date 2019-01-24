@@ -1,0 +1,6 @@
+## Pycharm project
+.idea/*
+
+## Python
+# Virtual environments
+venv*/
